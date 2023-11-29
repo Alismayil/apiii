@@ -1,0 +1,46 @@
+{
+    "coffee": [
+      { "id": 1,
+      "image":"https://xpressrow.com/html/cafena/cafena/assets/images/menu/menu-1.jpeg",
+      "name": "AMERICANO COFFEE",
+       "newPrice": 325.00 ,
+      "filter":[1,5],
+       "oldPrice": 348 
+    },
+    { "id": 2,
+      "image":"https://xpressrow.com/html/cafena/cafena/assets/images/menu/menu-2.jpeg",
+      "name": "CAFFÈ LATTE",
+       "newPrice": 325.00 ,
+       "filter":[2,4,5],
+       "oldPrice": 348 
+    },
+    { "id": 3,
+      "image":"https://xpressrow.com/html/cafena/cafena/assets/images/menu/menu-3.jpeg",
+      "name": "AMERICANO COFFEE",
+       "newPrice": 325.00 ,
+       "filter":[1,2,5],
+       "oldPrice": 348 
+    },
+    { "id": 4,
+      "image":"https://xpressrow.com/html/cafena/cafena/assets/images/menu/menu-4.jpeg",
+      "name": "LATTE MACCHIATO",
+       "newPrice": 325.00 ,
+      "filter":[3,4,5],
+       "oldPrice": 348 
+    },
+    { "id": 5,
+      "image":"https://xpressrow.com/html/cafena/cafena/assets/images/menu/menu-5.jpeg",
+      "name": "ESPRESSO LUNGO",
+       "newPrice": 325.00 ,
+       "filter":[1,4,5],
+       "oldPrice": 348 
+    },
+    { "id": 6,
+      "image":"https://xpressrow.com/html/cafena/cafena/assets/images/menu/menu-6.jpeg",
+      "name": "CAFÈ AU LAIT",
+       "newPrice": 325.00 ,
+       "filter":[6],
+       "oldPrice": 348 
+    }
+    ]
+  }
